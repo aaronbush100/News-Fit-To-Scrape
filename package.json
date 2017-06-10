@@ -1,0 +1,19 @@
+{
+  "name": "newsfittoscrape",
+  "version": "1.0.0",
+  "description": "news fit to scrape",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronbush100/News-Fit-To-Scrape.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronbush100/News-Fit-To-Scrape/issues"
+  },
+  "homepage": "https://github.com/aaronbush100/News-Fit-To-Scrape#readme"
+}
